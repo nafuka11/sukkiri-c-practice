@@ -1,6 +1,6 @@
 /**
  * @file main.c
- * @brief 『スッキリわかるC言語』練習問題11-02
+ * @brief 『スッキリわかるC言語入門』練習問題11-02
  * @author nafuka11
  * @date 2020-01-01
  * @details 2つの文字列の操作

@@ -1,6 +1,6 @@
 /**
  * @file filecopy.c
- * @brief 『スッキリわかるC言語』練習問題14-1
+ * @brief 『スッキリわかるC言語入門』練習問題14-1
  * @author nafuka11
  * @date 2020-01-03
  * @details ファイルコピープログラム

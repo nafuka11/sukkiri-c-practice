@@ -1,6 +1,6 @@
 /**
  * @file generateBmp.c
- * @brief 『スッキリわかるC言語』練習問題14-2
+ * @brief 『スッキリわかるC言語入門』練習問題14-2
  * @author nafuka11
  * @date 2020-01-03
  * @details 8x8ピクセルの青いBMPファイルを作成する

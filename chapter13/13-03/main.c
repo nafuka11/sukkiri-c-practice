@@ -1,6 +1,6 @@
 /**
  * @file main.c
- * @brief 『スッキリわかるC言語』練習問題13-2
+ * @brief 『スッキリわかるC言語入門』練習問題13-2
  * @author nafuka11
  * @date 2020-01-02
  * @details ランダムなメッセージの表示
