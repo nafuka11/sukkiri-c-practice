@@ -31,4 +31,4 @@
 | [13-03](./chapter13/13-03) | ランダムなメッセージの表示 |
 | [14-01](./chapter14/14-01) | ファイルコピープログラム |
 | [14-02](./chapter14/14-02) | 8x8ピクセルの青いBMPファイルを作成する |
-| [15](./chapter15/15) | シェルスクリプト、Makefileでのビルド、Doxygen、CppCheck |
+| [15](./chapter15) | シェルスクリプト、Makefileでのビルド、Doxygen、CppCheck |
