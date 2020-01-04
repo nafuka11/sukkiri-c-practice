@@ -4,7 +4,6 @@
  * @author nafuka11
  * @date 2019-12-28
  * @details 温度調整プログラム
- *
  */
 #include <stdio.h>
 #include <stdlib.h>
